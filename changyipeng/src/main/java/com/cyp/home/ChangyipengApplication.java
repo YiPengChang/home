@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ChangyipengApplication {
 
 	public static void main(String[] args) {
+		//git测试ssh登录
 		SpringApplication.run(ChangyipengApplication.class, args);
 	}
 
